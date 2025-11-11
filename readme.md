@@ -1,5 +1,4 @@
 # Monitoreo_Infraestructura
-🖥️ Despliegue de Aplicación Flask con Apache2, mod_wsgi y Vagrant
 
 Este proyecto implementa el despliegue de una aplicación desarrollada en Flask sobre un servidor Apache2, utilizando el módulo mod_wsgi para integrar la aplicación Python con el servidor web.
 El entorno se ejecuta dentro de una máquina virtual gestionada por Vagrant, lo que permite una configuración reproducible y automatizada para entornos de desarrollo o pruebas.
@@ -104,5 +103,4 @@ sudo systemctl restart apache2
 ## Autores
 
 Karen Lopez, Monica Chicangana, Jean Pool Esguerra, Jean Alfred Gargano
-Proyecto de despliegue Flask + Apache2 + mod_wsgi + Vagrant
-📅 Última actualización: noviembre de 2025
+Última actualización: noviembre de 2025
